@@ -1,0 +1,8 @@
+[global]
+bpm = 129
+clock_div = 4.0
+clock_send = yes
+send_midi_song = no
+lp_midi_in = 1
+lp_midi_out = 1
+midi_out = 2
